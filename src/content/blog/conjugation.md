@@ -40,13 +40,13 @@ H (î,Ĵ,k̂=>-î,-Ĵ,-k̂)
 
 ### Hermitian Transpose
 
-R Matrix (A+iB)<br/>
+C Matrix (A+iB)<br/>
 [<br/>
   2+3i<span style="padding-right:15px;"></span>i<span style="padding-right:15px;"></span>6-4i<br/>
   7<span style="padding-right:15px;"></span>2-3i<span style="padding-right:15px;"></span>-i<br/>
 ]
 
-C conj(R Matrix)<br/>
+C conj(C Matrix)<br/>
 [<br/>
   2-3i<span style="padding-right:15px;"></span>-i<span style="padding-right:15px;"></span>6+4i<br/>
   7<span style="padding-right:15px;"></span>2+3i<span style="padding-right:15px;"></span>i<br/>
@@ -59,7 +59,7 @@ H conjugate transpose<br/>
   6+4i<span style="padding-right:15px;"></span>i<br/>
 ]
 
-R(Matrix)*C(conjugate) => ERROR (Dimension NOT Matched)
-R(Matrix)*H(transpose) => OKAY (Dimension Matched)<br/>
-R_Matrix (M) ----------------> Conjugate Transpose (M-H)<br/>
-M-H = M (Hermitian)
+C(Matrix)*C(conjugate) => ERROR (Dimension NOT Matched)
+C(Matrix)*H(transpose) => OKAY (Dimension Matched)<br/>
+C_Matrix (M) ----------------> Conjugate Transpose (M<sup>H</sup>)<br/>
+if M<sup>H</sup> = M => (Hermitian Matrix)
