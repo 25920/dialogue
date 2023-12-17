@@ -17,7 +17,7 @@ description: how many type of conjugates are there for division algebras.
 
 ### Complex Conjugate
 
-```code
+```javascript
  y (im)
   |        z=x+iy
   |  r/|
