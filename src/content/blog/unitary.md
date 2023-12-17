@@ -54,7 +54,15 @@ To constitute an orthogonal feature
 
 ![MComplexMatrix2Col23](https://bafybeidur7ae2dzmpdepyga3fmjbmklkiabred2hafax2r2cvjw4u5vrjm.ipfs.nftstorage.link/m.png)
 
-M => Orthogonal
+OR
+
+![IM](https://bafybeiggyebibpbw3noa6frzj2gejdik2zhqvtju2cqu6ijdyebzunvpd4.ipfs.nftstorage.link/a.png)
+
+![I](https://bafybeiggyebibpbw3noa6frzj2gejdik2zhqvtju2cqu6ijdyebzunvpd4.ipfs.nftstorage.link/b.png)
+
+if M<sup>T</sup>M=I
+
+Either way, M => Orthogonal
 
 ### Unitary (C)
 
@@ -63,25 +71,17 @@ To constitute an unitary feature
 - columns => orthonormal vector<br/>
   U<sup>H</sup>\*U = I (Identity Matrix)
 
-U = [
-<br/>
-<span style="padding-right:15px;"></span>i/&#8730;2<span style="padding-right:15px;"></span>-1/&#8730;2<br/>
-<span style="padding-right:15px;"></span>1/&#8730;2<span style="padding-right:15px;"></span>-i/&#8730;2<br/>
-]
+![UCM](https://bafybeicc7z6vjecofprxhjjbrvjilocalvzcscr247n6vwae472kyqd5ee.ipfs.nftstorage.link/a.png)
 
-U<sup>H</sup> = [
-<br/>
-<span style="padding-right:15px;"></span>-i/&#8730;2<span style="padding-right:15px;"></span>1/&#8730;2<br/>
-<span style="padding-right:15px;"></span>-1/&#8730;2<span style="padding-right:15px;"></span>i/&#8730;2<br/>
-]
+![UCMH](https://bafybeicc7z6vjecofprxhjjbrvjilocalvzcscr247n6vwae472kyqd5ee.ipfs.nftstorage.link/b.png)
 
-U<sup>H</sup>\*U = [
-<br/>
-<span style="padding-right:15px;"></span>1<span style="padding-right:15px;"></span>0<br/>
-<span style="padding-right:15px;"></span>0<span style="padding-right:15px;"></span>1<br/>
-] = I
+if U<sup>H</sup>\*U = I
 
-So, U is an Unitary Matrix
+U is an Unitary Matrix
+
+![UCMHI](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/a.png)
+
+So U is indeed an Unitary Matrix
 
 ## Vectors
 
@@ -94,6 +94,28 @@ Plus
 v<sub>1</sub>\*v<sub>2</sub>=0
 
 But, both vectors does not have to have length = 1
+
+![dotproduct](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/b.png)
+
+![dotproduct](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/f.png)
+
+<div style="text-align:center">=</div>
+
+Option 1
+
+![dotproduct](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/c.png)
+
+<div style="text-align:center">where</div>
+
+![dotproduct](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/d.png)
+
+AND
+
+![dotproduct](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/e.png)
+
+OR Option 2
+
+![dotproduct](https://bafybeigbdd5g57flo7moqnypyz3ik75zfchj7n44ake6c6vepx6bsl35tq.ipfs.nftstorage.link/g.png)
 
 <span style="width:30%;background:black;height:5px"></span>
 
