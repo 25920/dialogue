@@ -44,9 +44,13 @@ To constitute an orthogonal feature
 
 ![MComplexMatrix2Col3](https://bafybeidur7ae2dzmpdepyga3fmjbmklkiabred2hafax2r2cvjw4u5vrjm.ipfs.nftstorage.link/h.png)
 
+<div style="text-align:center">Unit Vector Below</div>
+
 ![MComplexMatrix2Col123](https://bafybeidur7ae2dzmpdepyga3fmjbmklkiabred2hafax2r2cvjw4u5vrjm.ipfs.nftstorage.link/i.png)
 
 ![MComplexMatrix2Col123uv](https://bafybeidur7ae2dzmpdepyga3fmjbmklkiabred2hafax2r2cvjw4u5vrjm.ipfs.nftstorage.link/j.png)
+
+<div style="text-align:center">Dot Product Below</div>
 
 ![MComplexMatrix2Col12](https://bafybeidur7ae2dzmpdepyga3fmjbmklkiabred2hafax2r2cvjw4u5vrjm.ipfs.nftstorage.link/k.png)
 
@@ -119,55 +123,82 @@ OR Option 2
 
 <span style="width:30%;background:black;height:5px"></span>
 
-A set of vectors: S {v<sub>1</sub>,...,v<sub>n</sub>}
+A set of vectors: R {v<sub>1</sub>,...,v<sub>s</sub>}
 
-if Sum<sub>n=1</sub><sup>k=n</sup> v<sub>n</sub>\*v<sub>k</sub> == 0:
+recommend to use this equation if s > 2.
 
-set S of vectors is mutually orthogonal as all pair is 0.
+n != k
+
+![sumdot](https://bafkreieswz633u76evtan5doxqh4z4tu4j6wz6dafxeqrvh3nizgxbsc54.ipfs.nftstorage.link/)
+
+set R of vectors is mutually orthogonal as all pair dot's products are 0.
 
 ### Orthonormal Vector
 
-Check if the set of vectors Y is orthonormal.
+a set N of vectors, with size of g
 
-Y {f,t}
+N {v<sub>1</sub>,...,v<sub>g</sub>}
 
-f = [
-<br/>
-<span style="padding-right:15px;"></span>4<br/>
-<span style="padding-right:15px;"></span>2<br/>
-<span style="padding-right:15px;"></span>1<br/>
-]
+#### The magnitude equation of each vector in set N
 
-t = [
-<br/>
-<span style="padding-right:15px;"></span>1<br/>
-<span style="padding-right:15px;"></span>-3<br/>
-<span style="padding-right:15px;"></span>-2<br/>
-]
+![magequ](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/a.png)
 
-|v| = &#8730;Summation(v<sub>n</sub>)<sup>2</sup>
+where m is the number of entires in the vector in matrix form.
 
-|f| = &#8730;21
+#### The unit vector equation of each vector in set N
 
-|t| = &#8730;14
+![magequ](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/b.png)
 
-check unit vector
+where e = m.
 
-&#8730;(Summation<sub>n=1</sub><sup>n</sup>((v<sub>n</sub>/|v|)<sup>2</sup>))
+#### Example where m = 3
 
-f = 1/&#8730;(21)\*f<br/>
+![magequ](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/k.png)
 
-[
-<br/>
-<span style="padding-right:15px;"></span>4/&#8730;(21)<br/>
-<span style="padding-right:15px;"></span>2/&#8730;(21)<br/>
-<span style="padding-right:15px;"></span>-1/&#8730;(21)<br/>
-]
+![magequ](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/l.png)
 
-f = &#8730;(16/21+4/21+1/21) = &#8730;(21/21) = 1
+![magequ](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/m.png)
 
-same for t
+and as obvious they are, dot products can be spotted easily to be 0.
 
-As t and f have unit vectors as properties && dot product of vectors c\*f = 0.
+or you can use the equation above to check for all vector pairs in set N.
 
-So, the set Y is orthonormal
+#### Example with a space
+
+If space E has two subspaces A and B
+
+defining two subspaces
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/d.png)
+
+since
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/e.png)
+
+So, subspace A and B are orthogonal
+applying to
+every a ∈ A, and every b ∈ B
+
+#### Additional Example
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/f.png)
+
+turns into two vectors by column
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/i.png)
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/j.png)
+
+As
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/g.png)
+
+And
+
+Both columns have length of 1 while being orthogonal
+
+Hence both columns are orthonormal
+
+Finally,
+
+![subs](https://bafybeifsbr6qf3g2fm3xwk4jmzpb2sinlwa6odnlmlkwxqqqhdzltc2fru.ipfs.nftstorage.link/h.png)
