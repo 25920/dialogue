@@ -2,7 +2,7 @@
 author: "25920"
 pubDatetime: 2023-10-19T16:58:53Z
 title: Unitary Orthogonal Orthonormal
-postSlug: orthonoal-unitary-orthonormal
+postSlug: orthogonal-unitary-orthonormal
 featured: true
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
   - orthogonal
   - orthonormal
   - maths
-description: matrix with different properties
+description: matrices and vectors with different properties
 ---
 
 ## Table of contents
@@ -125,13 +125,13 @@ OR Option 2
 
 A set of vectors: R {v<sub>1</sub>,...,v<sub>s</sub>}
 
-recommend to use this equation if s > 2.
+if s > 2 and n != k
 
-n != k
+condensed from long expansion of unique combination between two vectors (commutative)
 
 ![sumdot](https://bafkreieswz633u76evtan5doxqh4z4tu4j6wz6dafxeqrvh3nizgxbsc54.ipfs.nftstorage.link/)
 
-set R of vectors is mutually orthogonal as all pair dot's products are 0.
+set R's vectors are mutually orthogonal as all pair dot's products are 0.
 
 ### Orthonormal Vector
 
