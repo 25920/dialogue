@@ -6,6 +6,7 @@ postSlug: graph-hermitian
 featured: true
 draft: false
 tags:
+  - my work
   - maths
   - graph theory
   - hermitian matrix
