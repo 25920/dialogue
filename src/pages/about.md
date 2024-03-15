@@ -5,7 +5,7 @@ title: "About"
 
 My name is Adrian So || 我的名字是蘇晉昌
 
-We can use Dialogue to look on topics resolved around Mathematics, Linguistics, Poetry, Painting, Music, and so forth.
+I use Dialogue to look on intriguing topics resolved around Mathematics, Linguistics, Poetry, Painting, Music, and so forth.
 
 ## Current, Interested Topics
 
