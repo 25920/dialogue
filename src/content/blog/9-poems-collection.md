@@ -1,15 +1,15 @@
 ---
 author: "25920"
 pubDatetime: 2024-02-28T19:32:10Z
-title: 9 Poems in One Big Theme with 4 different strands
-postSlug: 9-poems-to-one-river
+title: Poems in with different strands
+postSlug: poems-to-one
 featured: true
 draft: false
 tags:
   - my work
   - gutishi
   - poetry
-description: 8 poems under one lead poem for the running song collection.
+description: poems in vivid state.
 ---
 
 ## Table of contents
@@ -56,6 +56,30 @@ I used to write poems in English starting at my 17. But, I found the reach, the 
 
 只見萬點匯常賢
 
-## Where Are the Rest
+－－－－－－－－－－－－－－－－－－－
 
-8 finished. Not the right timing for the left ５ to be shown now. Though I uploaded those 8 to IPFS in a very private html url for historical storage. kkk.
+黃秋之時
+
+梅雨朝朝
+
+麗水之濱
+
+獨樂戚戚
+
+－－－－－－－－－－－－－－－－－－－
+
+年歲刻鍍金銮殿
+
+奸佞啃嘬楨楠木
+
+白身憂怨千斤苦
+
+君人屈受萬年腐
+
+## Is that all?
+
+Though I uploaded those to IPFS in a very private html url for historical storage. kkk. But, it takees time to show here.
+
+## Why there are no name?
+
+I already named them, however. I do want readers to find meaning without restriction of the "nouns".
