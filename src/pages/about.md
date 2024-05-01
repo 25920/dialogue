@@ -12,7 +12,7 @@ I use Dialogue to look on intriguing topics resolved around Mathematics, Linguis
 - Clifford Algebra in Mathematical Physics
 - Matrix Multiplication ShortCut
 - Gutishi (古體詩)
-- Paul Cezanne's Cubism
+- Paul Cezanne
 - Dimensionality Reduction in Machine Learning
 - Source of Proto-Hieroglyph and Proto-Cuneiform from the Fertile Crescent
 - Between Ordinary Language Philosophy and Cognitive Logic
