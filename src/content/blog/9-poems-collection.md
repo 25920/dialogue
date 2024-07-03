@@ -14,14 +14,6 @@ description: poems in vivid state.
 
 ## Table of contents
 
-## Idea of the Collection
-
-A more concrete representation of how I would live my life without dogma but with sensibility and humanity. I started writing the first poem of the collection when I was defeated seeing great people struggling to bring felicity but failed due to the willingness, the circumstance, and the culture of the time. And through my own experience, I claim my own gain and expenditure, and I have a different value and love to share it with the world.
-
-## Why in Chinese not English
-
-I used to write poems in English starting at my 17. But, I found the reach, the extent, the style, and the purpose of how I love to embrace my artisitic value and life philosophy onto my poems would have a better delivery in Chinese than English. So, so.
-
 ## The Poems
 
 行流如日雖逆理　依勢作遊甚可期
@@ -78,7 +70,7 @@ I used to write poems in English starting at my 17. But, I found the reach, the 
 
 ## Is that all?
 
-Though I uploaded those to IPFS in a very private html url for historical storage. kkk. But, it takees time to show here.
+No.
 
 ## Why there are no name?
 
