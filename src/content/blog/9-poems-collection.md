@@ -1,13 +1,12 @@
 ---
 author: "25920"
 pubDatetime: 2024-02-28T19:32:10Z
-title: Poems in with different strands
+title: Poems in different strands
 postSlug: poems-to-one
 featured: true
 draft: false
 tags:
   - my work
-  - gutishi
   - poetry
 description: poems in vivid state.
 ---
@@ -37,26 +36,6 @@ description: poems in vivid state.
 七離七解七異七常
 
 八聚八集八左八右
-
-－－－－－－－－－－－－－－－－－－－
-
-珠峰之嶺滿腔血
-
-千年風雪懷熱淚
-
-不知歲月吹蒼訣
-
-只見萬點匯常賢
-
-－－－－－－－－－－－－－－－－－－－
-
-黃秋之時
-
-梅雨朝朝
-
-麗水之濱
-
-獨樂戚戚
 
 －－－－－－－－－－－－－－－－－－－
 
