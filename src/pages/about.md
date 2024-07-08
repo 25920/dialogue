@@ -5,12 +5,10 @@ title: "About"
 
 My name is Adrian So || 我的名字是蘇晉昌
 
-I use Dialogue to look on intriguing topics resolved around Mathematics, Linguistics, Poetry, Painting, Music, and so forth.
+I use Dialogue to look on intriguing topics.
 
 ## Current, Interested Topics
 
-- Clifford Algebra in Mathematical Physics
-- Matrix Multiplication ShortCut
 - Gutishi (古體詩)
 - Gerhard Richter
 - Proto-Writing from the Fertile Crescent
