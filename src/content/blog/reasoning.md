@@ -26,7 +26,7 @@ description: how to deal with the undivided joy and calamity. Clarity shown in a
 三持三制三勢三守<br/>
 四合四併四吞四吐<br/>
 五連五散五眾五旗<br/>
-六缺六易六動六靜<br/>
+六合六易六動六靜<br/>
 七離七去七異七常<br/>
 八聚八集八左八右<br/>
 
@@ -48,19 +48,19 @@ description: how to deal with the undivided joy and calamity. Clarity shown in a
 天地之人曉無情<br/>
 雄圖了於魚青粥<br/>
 哀念了於望暖㬢<br/>
-然湖中煮茶看雪
+然湖中煮茶看雪<br/>
 
 ## Life
 
 世間何來因果<br/>
-割捨唯有正果
+割捨唯有正果<br/>
 
 ## Perception
 
 年歲刻鍍金銮殿<br/>
 奸佞啃嘬楨楠木<br/>
 白身憂怨千斤苦<br/>
-君人屈受萬年腐
+君人屈受萬年腐<br/>
 
 ## Mindset
 
@@ -76,7 +76,7 @@ description: how to deal with the undivided joy and calamity. Clarity shown in a
 虎驅天下<br/>
 威掃八方<br/>
 君子不黨<br/>
-以心為鑒
+以心為鑒<br/>
 
 ## MISC
 
