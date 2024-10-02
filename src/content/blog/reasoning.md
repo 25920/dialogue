@@ -55,12 +55,30 @@ description: how to deal with the undivided joy and calamity. Clarity shown in a
 世間何來因果<br/>
 割捨唯有正果<br/>
 
+蒼月悠悠意難清<br/>
+青青淵海緩步來<br/>
+渺渺靈犀壯高聲<br/>
+靜和茫茫淡中求<br/>
+蔥蔥穹山急奔赴<br/>
+人生久久心易安<br/>
+
 ## Perception
 
 年歲刻鍍金銮殿<br/>
 奸佞啃嘬楨楠木<br/>
 白身憂怨千斤苦<br/>
 君人屈受萬年腐<br/>
+
+## Cognition
+
+結繩回首三點頭<br/>
+蟲穿對首一碰頭<br/>
+石莖頓首二準頭<br/>
+泥胎昂首三低頭<br/>
+螘攀互首一領頭<br/>
+伍分聚首二跟頭<br/>
+苦碌合首三連頭<br/>
+法成低首難回頭<br/>
 
 ## Mindset
 
